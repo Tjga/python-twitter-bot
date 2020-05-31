@@ -10,7 +10,7 @@ auth.set_access_token(Acess_token, Acess_token_secret)
 #creates the API     dont mess with the auth part, its meant to be there
 api = tweepy.API(auth)
 
-your_tweet = #whatever you want
+your_tweet = #whatever you want to tweet
 
 
 
